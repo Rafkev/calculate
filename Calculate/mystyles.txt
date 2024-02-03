@@ -4,6 +4,7 @@
   font-weight: normal;
 }
 
+//CSS code body
 body {
   padding: 0;
   margin: 0;
